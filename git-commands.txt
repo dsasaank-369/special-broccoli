@@ -1,0 +1,9 @@
+Steps to upload files using "Git":
+1. Open command prompt.
+2. Go to the working directory where you wanto to upload the files from. (Use "cd" command)
+3. Initialize git using "git init"
+4. Upload files using command- "git add ."
+5. Now to commit use- git commit -m "First commit"
+6. For branch change use- "git branch -M main"
+7. Connect both git and github- "git remote add origin https://github.com/dsasaank-369/cloud.git"
+8. Finally push all the files using- "git push -u origin main"
