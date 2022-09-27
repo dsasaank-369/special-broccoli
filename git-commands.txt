@@ -1,4 +1,4 @@
-Steps to upload files using "Git":
+Steps to upload files using "Git" :
 1. Open command prompt.
 2. Go to the working directory where you wanto to upload the files from. (Use "cd" command)
 3. Initialize git using "git init"
